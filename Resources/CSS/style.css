@@ -292,7 +292,7 @@ header {
   }
   
   
-  @media (max-width: 360px) {
+  @media (max-width: 400px) {
     .home-text {
       max-width: 225px;
     }
@@ -305,5 +305,10 @@ header {
     .container {
       padding: 10px 20px;
     }
-
+    .process-photo {
+      height: 180px;
+    }
+    .final-photo {
+      height: 225px;
+    }
   }
